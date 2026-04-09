@@ -12,7 +12,7 @@ Advanced Africa project combining resilience-led country mapping, continental co
 
 - This project balances continent-wide structure with subregional gateway detail.
 - Analytical zones combine gateway clustering, corridor reach, resilience, and transition signals.
-- Bookmarks focus on the Gulf of Guinea, Nile-Red Sea, East Africa, and Southern Africa industrial systems.
+- Seven bookmarks focus on the Gulf of Guinea, Nile-Red Sea, East Africa, Southern Africa, the Maghreb, and the central mineral belt.
 
 ## Data Basis
 

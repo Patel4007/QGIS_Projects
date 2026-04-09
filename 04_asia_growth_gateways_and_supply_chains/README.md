@@ -12,7 +12,7 @@ Continent-scale Asia project for zooming between East Asia, ASEAN, Gulf-India, a
 
 - The Asia project focuses on gateway structure rather than only country statistics.
 - Supply chain zones are analytical cells scored from corridor reach, gateway clustering, and country pressure metrics.
-- Bookmarks are tuned to East Asia, ASEAN, Gulf to India, and Central Asia subregions.
+- Seven bookmarks are tuned to East Asia, ASEAN, Gulf to India, Central Asia, the China coast, and the wider Indian Ocean frame.
 
 ## Data Basis
 

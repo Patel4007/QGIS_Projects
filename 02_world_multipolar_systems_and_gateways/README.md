@@ -12,7 +12,7 @@ World project combining countries, economic hubs, transition leaders, and major 
 
 - This project is the suite-wide global overview with a saved world opening extent.
 - Gateway spheres and corridor lines are presentation-focused analytical layers for global systems mapping.
-- Use bookmarks to jump between Atlantic, Eurasian, and Indo-Pacific frames without losing the global context.
+- Seven bookmarks move between Atlantic, Eurasian, Indo-Pacific, Americas, Europe-Africa, and East Asia frames without losing the global context.
 
 ## Data Basis
 

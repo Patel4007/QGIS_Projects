@@ -12,7 +12,7 @@ Advanced Middle East project covering the East Mediterranean, Gulf, Red Sea, and
 
 - This project emphasizes strategic infrastructure structure rather than only country choropleths.
 - Interface zones combine logistics reach, energy-transition capacity, strategic influence, and climate exposure.
-- Bookmarks target the Eastern Mediterranean, the Gulf core, Mesopotamia and Iran, and the Red Sea frame.
+- Seven bookmarks target the Eastern Mediterranean, Gulf core, Mesopotamia and Iran, Red Sea, Anatolia, and the Oman-Arabian Sea frame.
 
 ## Data Basis
 

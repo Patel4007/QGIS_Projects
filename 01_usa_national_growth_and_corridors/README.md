@@ -12,7 +12,7 @@ Regional-scale USA project focused on metro hierarchy, corridor access, and zoom
 
 - The main map opens on the lower 48 so corridor and metro detail are readable immediately.
 - Planning zones are analytical cells scored by proximity to major metros and corridor spines.
-- Bookmarks jump directly to the Northeast Corridor, Great Lakes, Texas Triangle, and California.
+- Seven bookmarks provide direct zoom access to the Northeast Corridor, Great Lakes, Texas Triangle, California, the Pacific Northwest, and the Southeast.
 
 ## Data Basis
 

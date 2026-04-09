@@ -12,7 +12,7 @@ Detailed Indian subcontinent project built for zooming into mobility corridors, 
 
 - This is the most zoomable project in the suite, with a finer analytical grid than the continental maps.
 - Mobility zones are derived from metro clustering, corridor reach, and country-level density and pressure signals.
-- Bookmarks jump into Delhi NCR, Mumbai Ahmedabad, Southern Tech Belt, and the Dhaka delta frame.
+- Seven bookmarks jump into Delhi NCR, Mumbai Ahmedabad, Southern Tech Belt, the Dhaka delta, the northwest spine, and the Himalayan arc.
 
 ## Data Basis
 

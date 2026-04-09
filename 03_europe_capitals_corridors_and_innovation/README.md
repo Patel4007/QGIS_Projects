@@ -12,7 +12,7 @@ Continent-scale Europe project designed for zooming into corridor-rich capital r
 
 - The European opening extent is tighter than the world project so city and corridor detail reads immediately.
 - Integration zones are clipped analytical cells driven by hub access, corridor reach, and country strength indicators.
-- Bookmarks target North Sea, Rhine Alpine, Central Europe, and Mediterranean frames for fast review.
+- Seven bookmarks target North Sea, Rhine Alpine, Central Europe, Mediterranean, Iberia, and Baltic-Nordic frames for fast review.
 
 ## Data Basis
 
