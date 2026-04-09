@@ -1,6 +1,6 @@
 # QGIS Mixed Geography Projects
 
-Five advanced QGIS projects spanning the USA, the world, Europe, Asia, and the Indian subcontinent.
+Seven advanced QGIS projects spanning the USA, the world, Europe, Asia, the Indian subcontinent, Africa, and the Middle East.
 
 ## Project Set
 
@@ -23,6 +23,14 @@ Five advanced QGIS projects spanning the USA, the world, Europe, Asia, and the I
 - **Indian Subcontinent Regional Detail & Mobility Network**
   Project: `05_indian_subcontinent_regional_detail.qgz`
   PDF: `05_indian_subcontinent_regional_detail/exports/05_indian_subcontinent_regional_detail_layout.pdf`
+
+- **Africa Gateway Trade & Resilience Systems**
+  Project: `06_africa_gateway_trade_and_resilience.qgz`
+  PDF: `06_africa_gateway_trade_and_resilience/exports/06_africa_gateway_trade_and_resilience_layout.pdf`
+
+- **Middle East Energy, Water & Logistics Systems**
+  Project: `07_middle_east_energy_water_and_logistics.qgz`
+  PDF: `07_middle_east_energy_water_and_logistics/exports/07_middle_east_energy_water_and_logistics_layout.pdf`
 
 ## Opening
 

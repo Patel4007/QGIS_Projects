@@ -145,6 +145,8 @@ body {
 .accent-sky { color: #0ea5e9; }
 .accent-teal { color: #0f766e; }
 .accent-amber { color: #c2410c; }
+.accent-emerald { color: #059669; }
+.accent-rust { color: #9a3412; }
 
 .project-card h3,
 .sharing-card h3 {
